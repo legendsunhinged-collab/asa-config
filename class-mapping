@@ -1,0 +1,20 @@
+{
+  "dinoMappings": [
+    {
+      "fromClass": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.AcrocanthosaurusAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
+    },
+    {
+      "fromClass": "/AAAcro/Dinos/Asc_AcrocanthosaurusAA_Character_BP.Asc_AcrocanthosaurusAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
+    },
+    {
+      "fromClass": "/AAAcro/Dinos/SE_AcrocanthosaurusAA_Character_BP.SE_AcrocanthosaurusAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
+    },
+    {
+      "fromClass": "/AAAcro/Dinos/PaleoArk_AcrocanthosaurusAA_Character_BP.PaleoArk_AcrocanthosaurusAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
+    }
+  ]
+}
